@@ -1,0 +1,11 @@
+ALGORITHM TO SWAP TWO NUMBERS
+
+Start
+Declare three variables num1, num2, and temp
+Display values before swapping 
+Swap the values
+	Store num1 in temp
+	Assign num2 to num1
+	Assign temp (Original num1) to num2
+Display values after swapping
+End
