@@ -26,6 +26,21 @@ This C program calculates the average marks for students in three subject, which
 
 The program makes the user to enter the marks for each subject and assessment. It then calculates and displays the average mark for each subject and the overall average.
 
-##Features 
+## Features 
 
 *   **User Input:** Makes the user enter marks for each assessment per subject
+
+* **Accurate Calculations:**  Calculates the average mark for each subject and the overall average.
+
+# ANIMAL MERGE
+
+This C program prompts the user to enter a list of wild and domestic animals, and then merges them into a single list.
+
+## Description
+
+The program asks the user to input five wild animals and five domestic animals. It stores each list separately in 2D character arrays. The program then merges these two lists into a third 2D character array containing all ten animals. Finally, the program prints the merged list to the console.
+
+## Features
+* **Merged Output:** Combines the two lists into a single output.
+ 
+* **User input:** Guides the user to enter animal names.
