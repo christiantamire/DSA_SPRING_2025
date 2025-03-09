@@ -44,3 +44,5 @@ The program asks the user to input five wild animals and five domestic animals. 
 * **Merged Output:** Combines the two lists into a single output.
  
 * **User input:** Guides the user to enter animal names.
+ 
+![Screenshot from 2025-03-09 21-45-05](https://github.com/user-attachments/assets/d88ff418-39b9-444d-a73a-4f0924085d14)
