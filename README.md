@@ -32,6 +32,8 @@ The program makes the user to enter the marks for each subject and assessment. I
 
 * **Accurate Calculations:**  Calculates the average mark for each subject and the overall average.
 
+  ![Screenshot from 2025-03-09 21-45-05](https://github.com/user-attachments/assets/d88ff418-39b9-444d-a73a-4f0924085d14)
+
 # ANIMAL MERGE
 
 This C program prompts the user to enter a list of wild and domestic animals, and then merges them into a single list.
@@ -45,4 +47,5 @@ The program asks the user to input five wild animals and five domestic animals. 
  
 * **User input:** Guides the user to enter animal names.
  
-![Screenshot from 2025-03-09 21-45-05](https://github.com/user-attachments/assets/d88ff418-39b9-444d-a73a-4f0924085d14)
+![Screenshot from 2025-03-09 21-55-06](https://github.com/user-attachments/assets/766b9c45-7b8d-4878-9261-8713e5ab0bef)
+
