@@ -1,4 +1,6 @@
-TRAVERSING AN ARRAY
+#TRAVERSING AN ARRAY
+
+
 Array Input
 Prompts the user to enter 5 numbers and stores them in an array named num.
 
