@@ -1,0 +1,20 @@
+PSEUDO CODE FOR SWAPPING TWO NUMBERS
+
+BEGIN
+	Declare num1, num2, temp as INTEGER
+	Print "Enter first number: "
+	input num1
+
+	Print "Enter Second number: "
+	input num2
+
+	Print "Before swapping: num1 =", num1, "num2=", num2
+
+	//Swapping process
+	Set temp = num1
+	Set num1 = num2
+	Set num2 = temp
+
+	Print "After Swapping: num1 =", num1," num2 =", num2
+
+END 
