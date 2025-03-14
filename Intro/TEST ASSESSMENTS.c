@@ -3,7 +3,7 @@
 
 int main() {
     float marks[3][4];  // 2D array to store marks: [subject][assessment]
-    float sum_subjects[3] = // Array to hold the sums for each subject
+    float sum_subjects[3];// Array to hold the sums for each subject
     float avg_subjects[3]; // Array to hold the averages for each subject
     float overall_avg;//To hold the averages of all subjects
     int i, j;
