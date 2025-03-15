@@ -1,4 +1,4 @@
-* **Leonard turyatemba** 
+* **Leonard Turyatemba** 
 
 * **Hakim Mbaziira**
 
