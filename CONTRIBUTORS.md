@@ -1,9 +1,9 @@
-# Leonard turyatemba 
+* **Leonard turyatemba** 
 
-# Hakim Mbaziira
+* **Hakim Mbaziira**
 
-# Musasizi Christian Samuel
+* **Musasizi Christian Samuel**
 
-# Timothy Otim Lutara
+* **Timothy Otim Lutara**
 
-# Trevor Kanyesigye
+* **Trevor Kanyesigye**
