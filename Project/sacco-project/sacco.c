@@ -48,7 +48,7 @@ void fordelay(int j)
 void menu(void)
 {   int choice;
     system("cls");
-    printf("\n\n\t KARUGUTU SAVINGS AND CREDIT COOPERATIVE SOCIETY");
+    printf("\n\n\t NOOBS SAVINGS AND CREDIT COOPERATIVE SOCIETY");
     printf("\n\n\n\t\t Account Management System");
     printf("\n\n\n\t\t\t Main Menu");
     printf("\n\n\t\t1. Open New Account\n\t\t2. Update Info of Existing Account\n\t\t3. Make Transactions\n\t\t4. Details of Existing Account\n\t\t5. Delete Existing Account\n\t\t6. View Client List\n\t\t7. Exit\n\n\n\n\n\t\t Enter Your Choice: ");
@@ -538,9 +538,9 @@ void view_list()
 int main()
 {
 
-    char pass[8], password[8]="kasacco";
+    char pass[8], password[8]="noob";
     int i=0;
-    printf("\n\n\t\t Welcome to Karugutu SACCO\n\n");
+    printf("\n\n\t\t Welcome to noobs SACCO\n\n");
     printf("\n\n\t\t Enter Password to Login: ");
     scanf("%s", pass);
 
